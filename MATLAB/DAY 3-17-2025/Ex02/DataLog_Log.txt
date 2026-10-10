@@ -1,0 +1,75 @@
+17/3/2568 15:00:20  Data Logger Started
+17/3/2568 15:01:16  Save On Event: Triggered, Event Count: 1
+17/3/2568 15:01:17  Logging Hardcopy
+17/3/2568 15:01:19  Logging Analog Waveforms
+17/3/2568 15:01:26  Logging Measurements
+17/3/2568 15:01:26  Saving Data for Event 1 Complete
+17/3/2568 15:01:57  Save On Event: Triggered, Event Count: 2
+17/3/2568 15:01:58  Logging Hardcopy
+17/3/2568 15:02:00  Logging Analog Waveforms
+17/3/2568 15:02:07  Logging Measurements
+17/3/2568 15:02:07  Saving Data for Event 2 Complete
+17/3/2568 15:02:38  Save On Event: Triggered, Event Count: 3
+17/3/2568 15:02:39  Logging Hardcopy
+17/3/2568 15:02:41  Logging Analog Waveforms
+17/3/2568 15:02:48  Logging Measurements
+17/3/2568 15:02:48  Saving Data for Event 3 Complete
+17/3/2568 15:03:20  Save On Event: Triggered, Event Count: 4
+17/3/2568 15:03:20  Logging Hardcopy
+17/3/2568 15:03:23  Logging Analog Waveforms
+17/3/2568 15:03:29  Logging Measurements
+17/3/2568 15:03:29  Saving Data for Event 4 Complete
+17/3/2568 15:04:01  Save On Event: Triggered, Event Count: 5
+17/3/2568 15:04:02  Logging Hardcopy
+17/3/2568 15:04:04  Logging Analog Waveforms
+17/3/2568 15:04:11  Logging Measurements
+17/3/2568 15:04:11  Saving Data for Event 5 Complete
+17/3/2568 15:04:42  Save On Event: Triggered, Event Count: 6
+17/3/2568 15:04:42  Logging Hardcopy
+17/3/2568 15:04:45  Logging Analog Waveforms
+17/3/2568 15:04:52  Logging Measurements
+17/3/2568 15:04:52  Saving Data for Event 6 Complete
+17/3/2568 15:05:23  Save On Event: Triggered, Event Count: 7
+17/3/2568 15:05:24  Logging Hardcopy
+17/3/2568 15:05:26  Logging Analog Waveforms
+17/3/2568 15:05:33  Logging Measurements
+17/3/2568 15:05:33  Saving Data for Event 7 Complete
+17/3/2568 15:06:04  Save On Event: Triggered, Event Count: 8
+17/3/2568 15:06:05  Logging Hardcopy
+17/3/2568 15:06:07  Logging Analog Waveforms
+17/3/2568 15:06:14  Logging Measurements
+17/3/2568 15:06:15  Saving Data for Event 8 Complete
+17/3/2568 15:06:46  Save On Event: Triggered, Event Count: 9
+17/3/2568 15:06:46  Logging Hardcopy
+17/3/2568 15:06:49  Logging Analog Waveforms
+17/3/2568 15:06:55  Logging Measurements
+17/3/2568 15:06:56  Saving Data for Event 9 Complete
+17/3/2568 15:07:27  Save On Event: Triggered, Event Count: 10
+17/3/2568 15:07:27  Logging Hardcopy
+17/3/2568 15:07:30  Logging Analog Waveforms
+17/3/2568 15:07:37  Logging Measurements
+17/3/2568 15:07:37  Saving Data for Event 10 Complete
+17/3/2568 15:12:05  Save On Event: Triggered, Event Count: 11
+17/3/2568 15:12:05  Logging Hardcopy
+17/3/2568 15:12:07  Logging Analog Waveforms
+Exception occured during data logging.
+Ivi.Visa.IOTimeoutException: Exception of type 'Ivi.Visa.IOTimeoutException' was thrown.
+   at NationalInstruments.Visa.Internal.MessageBasedSessionImpl.CheckTimeoutAndThrow(Int32 visaStatus, Byte* buffer, Int32 count)
+   at NationalInstruments.Visa.Internal.MessageBasedSessionImpl.Read(Byte* buffer, Int64 index, Int64 count, Int64& actualCount, ReadStatus& readStatus)
+   at NationalInstruments.Visa.Internal.MessageBasedSessionImpl.Read(Byte[] buffer, Int64 index, Int64 count, Int64& actualCount, ReadStatus& readStatus)
+   at Ivi.Visa.MessageBasedReaderWriter.RawRead(Byte[] buffer, Int64 index, Int64 count, ReadStatus& readStatus)
+   at Ivi.Visa.MessageBasedReaderWriter.Read(Byte* pData, Int64 index, Int64 count, Boolean& endOfInput)
+   at Ivi.Visa.MessageBasedReaderWriter.Read(Byte* pData, Int64 index, Int64 count, Boolean flush, Boolean isBinary, Boolean& endOfInput)
+   at Ivi.Visa.MessageBasedReaderWriter.Read(Byte[] data, Int64 index, Int64 count, Boolean flush, Boolean isBinary, Boolean& endOfInput)
+   at Ivi.Visa.MessageBasedReaderWriter.Read(Boolean& endOfInput)
+   at Ivi.Visa.FormattedIO.FormattedReader.SkipWhitespace(IBufferedReader reader, Boolean& endOfInput)
+   at Ivi.Visa.FormattedIO.FormattedReader.Scanf[T1,T2,T3,T4,T5,T6,T7](ITypeFormatter typeFormatter, IBufferedReader reader, IList`1 tokens, Int64[] inputs, T1& output1, T2& output2, T3& output3, T4& output4, T5& output5, T6& output6, T7& output7)
+   at Ivi.Visa.FormattedIO.FormattedReader.Scanf[T1,T2](ITypeFormatter typeFormatter, IBufferedReader reader, String format, Int64[] inputs, T1& output1, T2& output2)
+   at Ivi.Visa.FormattedIO.FormattedReader.Scanf[T](ITypeFormatter typeFormatter, IBufferedReader reader, String format, Int64[] inputs, T& output)
+   at Ivi.Visa.FormattedIO.MessageBasedFormattedIO.Scanf[T](String format, T& output)
+   at Ivi.Visa.FormattedIO.MessageBasedFormattedIO.ReadString()
+   at Tektronix.Oscilloscope.TekScopeDriver.QueryOutputWaveformHorizontalScaling(WaveformType wfmType)
+   at Tektronix.Oscilloscope.TkMso456Driver.fetchAnalogWaveformData(String dataSource, String& label, HorizontalScaling& horizontalScale, VerticalScaling& verticalScaling)
+   at Tektronix.Oscilloscope.TekScopeDriver.baseFetchAnalogWaveform(String dataSource)
+   at Tektronix.Oscilloscope.Data.TekScopeDataLogger.DataLoggingThread()
+17/3/2568 15:12:14  Data Logger Stopped: Error

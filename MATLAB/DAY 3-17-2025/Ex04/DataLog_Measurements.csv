@@ -1,0 +1,8 @@
+,Type,MAXIMUM,,,,,,Type,MINIMUM,,,,,,Type,MAXIMUM,,,,,,Type,MINIMUM,,,,,,Type,MAXIMUM,,,,,,Type,MINIMUM,,,,,,Type,MAXIMUM,,,,,,Type,MINIMUM,,,,,
+,Source 1,MATH1,,,,,,Source 1,MATH1,,,,,,Source 1,CH2,,,,,,Source 1,CH2,,,,,,Source 1,CH3,,,,,,Source 1,CH3,,,,,,Source 1,CH4,,,,,,Source 1,CH4,,,,,
+,Source 2,CH1,,,,,,Source 2,CH1,,,,,,Source 2,CH2,,,,,,Source 2,CH2,,,,,,Source 2,CH1,,,,,,Source 2,CH1,,,,,,Source 2,CH1,,,,,,Source 2,CH1,,,,,
+,Units,"A",,,,,,Units,"A",,,,,,Units,"A",,,,,,Units,"A",,,,,,Units,"V",,,,,,Units,"V",,,,,,Units,"V",,,,,,Units,"V",,,,,
+Timestamp,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count
+
+17/3/2568 15:43:15,120525.859375,120525.859375,120525.859375,120525.859375,0,1,,-70578.8046875,-70578.8046875,-70578.8046875,-70578.8046875,0,1,,3.36,3.36,3.36,3.36,0,1,,-4.44,-4.44,-4.44,-4.44,0,1,,52.8,52.8,52.8,52.8,0,1,,-51.2,-51.2,-51.2,-51.2,0,1,,51.2,51.2,51.2,51.2,0,1,,-48,-48,-48,-48,0,1
+17/3/2568 15:43:56,120533.2421875,120533.2421875,120533.2421875,120533.2421875,0,1,,-66583.4921875,-66583.4921875,-66583.4921875,-66583.4921875,0,1,,3.32,3.32,3.32,3.32,0,1,,-4,-4,-4,-4,0,1,,163.2,163.2,163.2,163.2,0,1,,-155.2,-155.2,-155.2,-155.2,0,1,,27.2,27.2,27.2,27.2,0,1,,-22.4,-22.4,-22.4,-22.4,0,1

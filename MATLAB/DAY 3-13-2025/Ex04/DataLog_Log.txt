@@ -1,0 +1,42 @@
+13/3/2568 15:43:33  Data Logger Started
+13/3/2568 15:45:06  Save On Event: Triggered, Event Count: 1
+13/3/2568 15:45:06  Logging Hardcopy
+13/3/2568 15:45:09  Logging Analog Waveforms
+13/3/2568 15:45:15  Saving Data for Event 1 Complete
+13/3/2568 15:45:42  Save On Event: Triggered, Event Count: 2
+13/3/2568 15:45:43  Logging Hardcopy
+13/3/2568 15:45:45  Logging Analog Waveforms
+13/3/2568 15:45:51  Saving Data for Event 2 Complete
+13/3/2568 15:46:18  Save On Event: Triggered, Event Count: 3
+13/3/2568 15:46:18  Logging Hardcopy
+13/3/2568 15:46:21  Logging Analog Waveforms
+13/3/2568 15:46:28  Saving Data for Event 3 Complete
+13/3/2568 15:46:54  Save On Event: Triggered, Event Count: 4
+13/3/2568 15:46:55  Logging Hardcopy
+13/3/2568 15:46:57  Logging Analog Waveforms
+13/3/2568 15:47:04  Saving Data for Event 4 Complete
+13/3/2568 15:47:31  Save On Event: Triggered, Event Count: 5
+13/3/2568 15:47:31  Logging Hardcopy
+13/3/2568 15:47:33  Logging Analog Waveforms
+13/3/2568 15:47:40  Saving Data for Event 5 Complete
+13/3/2568 15:48:06  Save On Event: Triggered, Event Count: 6
+13/3/2568 15:48:07  Logging Hardcopy
+13/3/2568 15:48:09  Logging Analog Waveforms
+13/3/2568 15:48:16  Saving Data for Event 6 Complete
+13/3/2568 15:48:43  Save On Event: Triggered, Event Count: 7
+13/3/2568 15:48:43  Logging Hardcopy
+13/3/2568 15:48:46  Logging Analog Waveforms
+13/3/2568 15:48:52  Saving Data for Event 7 Complete
+13/3/2568 15:49:19  Save On Event: Triggered, Event Count: 8
+13/3/2568 15:49:20  Logging Hardcopy
+13/3/2568 15:49:22  Logging Analog Waveforms
+13/3/2568 15:49:28  Saving Data for Event 8 Complete
+13/3/2568 15:49:55  Save On Event: Triggered, Event Count: 9
+13/3/2568 15:49:56  Logging Hardcopy
+13/3/2568 15:49:58  Logging Analog Waveforms
+13/3/2568 15:50:05  Saving Data for Event 9 Complete
+13/3/2568 15:50:32  Save On Event: Triggered, Event Count: 10
+13/3/2568 15:50:32  Logging Hardcopy
+13/3/2568 15:50:34  Logging Analog Waveforms
+13/3/2568 15:50:41  Saving Data for Event 10 Complete
+13/3/2568 15:54:03  Data Logger Stopped: Stopped by User

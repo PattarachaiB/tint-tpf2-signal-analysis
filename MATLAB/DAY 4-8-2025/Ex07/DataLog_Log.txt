@@ -1,0 +1,12 @@
+4/8/2025 1:26:28 PM  Data Logger Started
+4/8/2025 1:30:05 PM  Save On Event: Triggered, Event Count: 1
+4/8/2025 1:30:06 PM  Logging Hardcopy
+4/8/2025 1:30:08 PM  Logging Analog Waveforms
+4/8/2025 1:30:15 PM  Logging Measurements
+4/8/2025 1:30:15 PM  Saving Data for Event 1 Complete
+4/8/2025 1:30:46 PM  Save On Event: Triggered, Event Count: 2
+4/8/2025 1:30:47 PM  Logging Hardcopy
+4/8/2025 1:30:49 PM  Logging Analog Waveforms
+4/8/2025 1:30:56 PM  Logging Measurements
+4/8/2025 1:30:57 PM  Saving Data for Event 2 Complete
+4/8/2025 1:34:07 PM  Data Logger Stopped: Stopped by User

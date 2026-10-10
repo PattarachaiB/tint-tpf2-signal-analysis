@@ -1,0 +1,12 @@
+17/3/2568 16:56:20  Data Logger Started
+17/3/2568 16:56:42  Save On Event: Triggered, Event Count: 1
+17/3/2568 16:56:42  Logging Hardcopy
+17/3/2568 16:56:45  Logging Analog Waveforms
+17/3/2568 16:56:52  Logging Measurements
+17/3/2568 16:56:52  Saving Data for Event 1 Complete
+17/3/2568 16:57:23  Save On Event: Triggered, Event Count: 2
+17/3/2568 16:57:23  Logging Hardcopy
+17/3/2568 16:57:26  Logging Analog Waveforms
+17/3/2568 16:57:33  Logging Measurements
+17/3/2568 16:57:33  Saving Data for Event 2 Complete
+17/3/2568 16:58:48  Data Logger Stopped: Stopped by User

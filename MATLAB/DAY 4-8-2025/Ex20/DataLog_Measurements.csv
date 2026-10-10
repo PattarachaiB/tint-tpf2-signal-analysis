@@ -1,0 +1,8 @@
+,Type,MAXIMUM,,,,,,Type,MINIMUM,,,,,,Type,MAXIMUM,,,,,,Type,MINIMUM,,,,,,Type,MAXIMUM,,,,,,Type,MINIMUM,,,,,,Type,MAXIMUM,,,,,,Type,MINIMUM,,,,,
+,Source 1,MATH1,,,,,,Source 1,MATH1,,,,,,Source 1,CH2,,,,,,Source 1,CH2,,,,,,Source 1,CH3,,,,,,Source 1,CH3,,,,,,Source 1,CH4,,,,,,Source 1,CH4,,,,,
+,Source 2,CH1,,,,,,Source 2,CH1,,,,,,Source 2,CH2,,,,,,Source 2,CH2,,,,,,Source 2,CH1,,,,,,Source 2,CH1,,,,,,Source 2,CH1,,,,,,Source 2,CH1,,,,,
+,Units,"A",,,,,,Units,"A",,,,,,Units,"A",,,,,,Units,"A",,,,,,Units,"V",,,,,,Units,"V",,,,,,Units,"V",,,,,,Units,"V",,,,,
+Timestamp,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count,,Value,Mean,Min,Max,StdDEv,Count
+
+4/8/2025 3:08:14 PM,120589.171875,120589.171875,120589.171875,120589.171875,0,1,,-74979.5625,-74979.5625,-74979.5625,-74979.5625,0,1,,3.016,3.016,3.016,3.016,0,1,,-4.576,-4.576,-4.576,-4.576,0,1,,25.6,25.6,25.6,25.6,0,1,,-21.6,-21.6,-21.6,-21.6,0,1,,19.2,19.2,19.2,19.2,0,1,,-14.4,-14.4,-14.4,-14.4,0,1
+4/8/2025 3:08:55 PM,119564.4609375,119564.4609375,119564.4609375,119564.4609375,0,1,,-75919.0703125,-75919.0703125,-75919.0703125,-75919.0703125,0,1,,2.756,2.756,2.756,2.756,0,1,,-4.628,-4.628,-4.628,-4.628,0,1,,32,32,32,32,0,1,,-18.4,-18.4,-18.4,-18.4,0,1,,18.4,18.4,18.4,18.4,0,1,,-15.2,-15.2,-15.2,-15.2,0,1

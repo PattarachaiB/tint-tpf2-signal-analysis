@@ -1,0 +1,11 @@
+13/3/2568 14:11:25  Data Logger Started
+13/3/2568 14:11:37  Save On Event: Triggered, Event Count: 1
+13/3/2568 14:11:37  Logging Hardcopy
+13/3/2568 14:11:40  Logging Analog Waveforms
+Exception occured during data logging.
+Tektronix.Oscilloscope.TekScopeInstrumentErrorException: Error in the application.
+   at Tektronix.Oscilloscope.TekScopeDriver.CheckForInstrumentErrors()
+   at Tektronix.Oscilloscope.TkMso456Driver.fetchAnalogWaveformData(String dataSource, String& label, HorizontalScaling& horizontalScale, VerticalScaling& verticalScaling)
+   at Tektronix.Oscilloscope.TekScopeDriver.baseFetchAnalogWaveform(String dataSource)
+   at Tektronix.Oscilloscope.Data.TekScopeDataLogger.DataLoggingThread()
+13/3/2568 14:11:45  Data Logger Stopped: Error

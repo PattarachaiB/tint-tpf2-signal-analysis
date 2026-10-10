@@ -1,0 +1,27 @@
+4/10/2025 4:47:17 PM  Data Logger Started
+4/10/2025 4:48:04 PM  Save On Event: Triggered, Event Count: 1
+4/10/2025 4:48:04 PM  Logging Hardcopy
+4/10/2025 4:48:07 PM  Logging Analog Waveforms
+4/10/2025 4:48:13 PM  Logging Measurements
+4/10/2025 4:48:14 PM  Saving Data for Event 1 Complete
+4/10/2025 4:48:45 PM  Save On Event: Triggered, Event Count: 2
+4/10/2025 4:48:45 PM  Logging Hardcopy
+4/10/2025 4:48:48 PM  Logging Analog Waveforms
+4/10/2025 4:48:55 PM  Logging Measurements
+4/10/2025 4:48:55 PM  Saving Data for Event 2 Complete
+4/10/2025 4:49:26 PM  Save On Event: Triggered, Event Count: 3
+4/10/2025 4:49:27 PM  Logging Hardcopy
+4/10/2025 4:49:29 PM  Logging Analog Waveforms
+4/10/2025 4:49:36 PM  Logging Measurements
+4/10/2025 4:49:36 PM  Saving Data for Event 3 Complete
+4/10/2025 4:50:07 PM  Save On Event: Triggered, Event Count: 4
+4/10/2025 4:50:08 PM  Logging Hardcopy
+4/10/2025 4:50:10 PM  Logging Analog Waveforms
+4/10/2025 4:50:17 PM  Logging Measurements
+4/10/2025 4:50:17 PM  Saving Data for Event 4 Complete
+4/10/2025 4:50:48 PM  Save On Event: Triggered, Event Count: 5
+4/10/2025 4:50:49 PM  Logging Hardcopy
+4/10/2025 4:50:52 PM  Logging Analog Waveforms
+4/10/2025 4:50:58 PM  Logging Measurements
+4/10/2025 4:50:59 PM  Saving Data for Event 5 Complete
+4/10/2025 5:11:20 PM  Data Logger Stopped: Stopped by User

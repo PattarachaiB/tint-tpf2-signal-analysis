@@ -1,0 +1,42 @@
+4/8/2025 7:47:31 PM  Data Logger Started
+4/8/2025 7:48:04 PM  Save On Event: Triggered, Event Count: 1
+4/8/2025 7:48:04 PM  Logging Hardcopy
+4/8/2025 7:48:07 PM  Logging Analog Waveforms
+4/8/2025 7:48:14 PM  Logging Measurements
+4/8/2025 7:48:14 PM  Saving Data for Event 1 Complete
+4/8/2025 7:48:45 PM  Save On Event: Triggered, Event Count: 2
+4/8/2025 7:48:46 PM  Logging Hardcopy
+4/8/2025 7:48:48 PM  Logging Analog Waveforms
+4/8/2025 7:48:55 PM  Logging Measurements
+4/8/2025 7:48:55 PM  Saving Data for Event 2 Complete
+4/8/2025 7:49:27 PM  Save On Event: Triggered, Event Count: 3
+4/8/2025 7:49:27 PM  Logging Hardcopy
+4/8/2025 7:49:29 PM  Logging Analog Waveforms
+4/8/2025 7:49:36 PM  Logging Measurements
+4/8/2025 7:49:36 PM  Saving Data for Event 3 Complete
+4/8/2025 7:50:08 PM  Save On Event: Triggered, Event Count: 4
+4/8/2025 7:50:08 PM  Logging Hardcopy
+4/8/2025 7:50:10 PM  Logging Analog Waveforms
+4/8/2025 7:50:17 PM  Logging Measurements
+4/8/2025 7:50:17 PM  Saving Data for Event 4 Complete
+4/8/2025 7:50:49 PM  Save On Event: Triggered, Event Count: 5
+4/8/2025 7:50:50 PM  Logging Hardcopy
+4/8/2025 7:50:52 PM  Logging Analog Waveforms
+4/8/2025 7:50:59 PM  Logging Measurements
+4/8/2025 7:50:59 PM  Saving Data for Event 5 Complete
+4/8/2025 7:51:30 PM  Save On Event: Triggered, Event Count: 6
+4/8/2025 7:51:31 PM  Logging Hardcopy
+4/8/2025 7:51:33 PM  Logging Analog Waveforms
+4/8/2025 7:51:40 PM  Logging Measurements
+4/8/2025 7:51:40 PM  Saving Data for Event 6 Complete
+4/8/2025 7:52:12 PM  Save On Event: Triggered, Event Count: 7
+4/8/2025 7:52:12 PM  Logging Hardcopy
+4/8/2025 7:52:14 PM  Logging Analog Waveforms
+4/8/2025 7:52:21 PM  Logging Measurements
+4/8/2025 7:52:21 PM  Saving Data for Event 7 Complete
+4/8/2025 7:52:53 PM  Save On Event: Triggered, Event Count: 8
+4/8/2025 7:52:53 PM  Logging Hardcopy
+4/8/2025 7:52:55 PM  Logging Analog Waveforms
+4/8/2025 7:53:02 PM  Logging Measurements
+4/8/2025 7:53:02 PM  Saving Data for Event 8 Complete
+4/8/2025 7:53:33 PM  Data Logger Stopped: Stopped by User
